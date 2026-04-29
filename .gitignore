@@ -1,0 +1,5 @@
+.venv/
+requirements.txt
+__pycache__/
+config.bat
+node_modules
